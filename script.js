@@ -1,4 +1,4 @@
-// © 2024. shobhitDev All rights reserved.
+// © 2024. DeveloperPiyush All rights reserved.
 const progress = document.getElementById("progress");
 const song = document.getElementById("song");
 const controlIcon = document.getElementById("controlIcon");
@@ -11,44 +11,44 @@ const artistName = document.querySelector(".music-player p");
 const songs = [
   {
     title: "Ram Aayenge 🚩",
-    name: "Ram Aayenge 🚩By Shobhit Asthana",
+    name: "Ram Aayenge 🚩By Piyush",
     source:
       "Ram Aayenge.m4a",
   },
   {
     title: "ADHARAM MADHURAM",
-    name: "ADHARAM MADHURAM By Shobhit Asthana",
+    name: "ADHARAM MADHURAM By Piyush",
     source:
       "ADHARAM MADHURAM.m4a",
   },
   {
     title: "Ram Aayenge 🚩",
-    name: "Ram Aayenge 🚩By Shobhit Asthana",
+    name: "Ram Aayenge 🚩By Piyush",
     source:
       "Ram Aayenge.m4a",
   },
   {
     title: "Keejo Kesari Ke Laal",
-    name: "Keejo Kesari Ke Laal By Shobhit Asthana",
+    name: "Keejo Kesari Ke Laal By Piyush",
     source:
       "Keejo Kesari Ke Laal.m4a",
   },
   {
     title: "Shiv Tandav Stotram",
-    name: "Shiv Tandav Stotram By Shobhit Asthana",
+    name: "Shiv Tandav Stotram By Piyush",
     source:
       "Shiv Tandav Stotram.m4a",
   },
 
   {
     title: "ganpati bappa morya 🙏🙏🚩🚩❤️❤️❤️❤️",
-    name: "ganpati bappa morya 🙏🚩❤️ by Shobhit Asthana",
+    name: "ganpati bappa morya 🙏🚩❤️ by Piyush",
     source:
       "ganpati bappa morya.m4a",
   },
   {
     title: "Shakti Hai Bhakti Hai",
-    name: "Shakti Hai Bhakti Hai By Shobhit Ashana",
+    name: "Shakti Hai Bhakti Hai By Piyush",
     source:
       "Shakti Hai Bhakti Hai.m4a",
   },
@@ -138,4 +138,4 @@ var swiper = new Swiper(".swiper", {
     prevEl: ".backward",
   },
 });
-// © 2024. shobhitDev All rights reserved.
+// © 2024. DeveloperPiyush All rights reserved.
